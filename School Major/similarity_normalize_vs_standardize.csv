@@ -1,0 +1,441 @@
+normalize,standardize,score
+dai hoc quoc gia ha noi,dai hoc quoc gia ha noi,100
+dai hoc cong nghe dai hoc quoc gia ha noi,dai hoc cong nghe dai hoc quoc gia ha noi,100
+dai hoc giao duc dai hoc quoc gia ha noi,dai hoc giao duc dai hoc quoc gia ha noi,100
+dai hoc kinh te dai hoc quoc gia ha noi,dai hoc kinh te dai hoc quoc gia ha noi,100
+dai hoc khoa hoc tu nhien dai hoc quoc gia ha noi,dai hoc khoa hoc tu nhien dai hoc quoc gia ha noi,100
+dai hoc khoa hoc xa hoi nhan van dai hoc quoc gia ha noi,dai hoc khoa hoc xa hoi nhan van dai hoc quoc gia ha noi,100
+dai hoc ngoai ngu dai hoc quoc gia ha noi,dai hoc ngoai ngu dai hoc quoc gia ha noi,100
+dai hoc quoc gia hcm,dai hoc quoc gia hcm,100
+dai hoc an giang,dai hoc an giang,100
+dai hoc cong nghe thong tin dai hoc quoc gia hcm,dai hoc cong nghe thong tin dai hoc quoc gia hcm,100
+dai hoc khoa hoc tu nhien dai hoc quoc gia hcm,dai hoc khoa hoc tu nhien dai hoc quoc gia hcm,100
+dai hoc kinh te luat dai hoc quoc gia hcm,dai hoc kinh te luat dai hoc quoc gia hcm,100
+dai hoc quoc te dai hoc quoc gia hcm,dai hoc quoc te dai hoc quoc gia hcm,100
+dai hoc thai nguyen,dai hoc thai nguyen,100
+dai hoc cong nghe thong tin truyen thong thai nguyen,dai hoc cong nghe thong tin truyen thong thai nguyen,100
+dai hoc khoa hoc thai nguyen,dai hoc khoa hoc thai nguyen,100
+dai hoc kinh te quan tri kinh doanh thai nguyen,dai hoc kinh te quan tri kinh doanh thai nguyen,100
+dai hoc kinh te quan tri kinh doanh thoai nguyen,dai hoc kinh te quan tri kinh doanh thai nguyen,99
+dai hoc ki thuat cong nghiep thai nguyen,dai hoc ky thuat cong nghiep thai nguyen,98
+dai hoc ky thuat cong nghiep thai nguyen,dai hoc ky thuat cong nghiep thai nguyen,100
+dai hoc nong lam thai nguyen,dai hoc nong lam thai nguyen,100
+dai hoc su pham thai nguyen,dai hoc su pham thai nguyen,100
+dai hoc y duoc thai nguyen,dai hoc y duoc thai nguyen,100
+cao dang kinh te ky thuat thai nguyen,cao dang kinh te ky thuat thai nguyen,100
+dai hoc hue,dai hoc hue,100
+dai hoc kho hoc hue,dai hoc khoa hoc hue,97
+dai hoc khoa hoc hue,dai hoc khoa hoc hue,100
+dai hoc kinh te hue,dai hoc kinh te hue,100
+dai hoc luat hue,dai hoc luat hue,100
+dai hoc ngoai ngu hue,dai hoc ngoai ngu hue,100
+dai hoc nong lam hue,dai hoc nong lam hue,100
+dai hoc su pham hue,dai hoc su pham hue,100
+dai hoc y duoc hue,dai hoc y duoc hue,100
+dai hoc da nang,dai hoc da nang,100
+dai hoc bach khoa da nang,dai hoc bach khoa da nang,100
+dai hoc kinh te da nang,dai hoc kinh te da nang,100
+dai hoc su pham da nang,dai hoc su pham da nang,100
+dai hoc ngoai ngu da nang,dai hoc ngoai ngu da nang,100
+dai hoc bach khoa ha noi,dai hoc bach khoa ha noi,100
+dai hoc kinh te hcm,dai hoc kinh te hcm,100
+dai hoc kinh te hcn,dai hoc kinh te hcm,95
+hoc vien quan ly giao duc,hoc vien quan ly giao duc,100
+dai hoc ha noi,dai hoc ha noi,100
+dai hoc giao thong van tai,dai hoc giao thong van tai,100
+dai hoc kinh te quoc dan,dai hoc kinh te quoc dan,100
+dai hoc mo dia chat,dai hoc mo dia chat,100
+dai hoc mo ha noi,dai hoc mo ha noi,100
+dai hoc ky thuat cong nghiep,dai hoc my thuat cong nghiep,96
+dai hoc my thuat cong nghiep,dai hoc my thuat cong nghiep,100
+dai hoc ngoai thuong,dai hoc ngoai thuong,100
+dai hoc su pham ha hoi,dai hoc su pham ha noi,95
+dai hoc su pham ha noi,dai hoc su pham ha noi,100
+dai hoc su pham ha noi 1,dai hoc su pham ha noi,96
+dai hoc su pham ha noi 2,dai hoc su pham ha noi,96
+dai hoc su pham nghe thuat trung uong,dai hoc su pham nghe thuat trung uong,100
+dai hoc su pham the duc the thao ha noi,dai hoc su pham the duc the thao ha noi,100
+dai hoc thuong mai,dai hoc thuong mai,100
+dai hoc xay dung ha noi,dai hoc xay dung ha noi,100
+dai hoc luat hcm,dai hoc luat hcm,100
+dai hoc mo hcm,dai hoc mo hcm,100
+dai hoc nong lam hcm,dai hoc nong lam hcm,100
+dai ho su pham ky thuat hcm,dai hoc su pham ky thuat hcm,98
+dai hoc su pham ki thuat hcm,dai hoc su pham ky thuat hcm,96
+dai hoc su pham ky thuat hcm,dai hoc su pham ky thuat hcm,100
+dai hoc su pham hcm,dai hoc su pham hcm,100
+dai hoc vinh,dai hoc vinh,100
+dai hoc can tho,dai hoc can tho,100
+dai hoc da lat,dai hoc da lat,100
+dai hoc dong thap,dai hoc dong thap,100
+dai hoc nha trang,dai hoc nha trang,100
+dai hoc quy nhon,dai hoc quy nhon,100
+dai hoc su pham ki thuat hung yen,dai hoc su pham ky thuat hung yen,97
+dai hoc su pham ky thuat hung yen,dai hoc su pham ky thuat hung yen,100
+dai hoc tay bac,dai hoc tay bac,100
+dai hoc tay nguyen,dai hoc tay nguyen,100
+dai hoc viet duc,dai hoc viet duc,100
+dai hoc y ha noi,dai hoc y ha noi,100
+dai hoc duoc ha noi,dai hoc duoc ha noi,100
+dai hoc y duoc ha noi,dai hoc duoc ha noi,95
+dai hoc y te cong cong,dai hoc y te cong cong,100
+hoc vien y duoc hoc co truyen viet nam,hoc vien y duoc hoc co truyen viet nam,100
+dai hoc y duoc hcm,dai hoc y duoc hcm,100
+dai hoc y duoc hai phong,dai hoc y duoc hai phong,100
+dai hoc y duoc can tho,dai hoc y duoc can tho,100
+dai hoc dieu duong nam dinh,dai hoc dieu duong nam dinh,100
+dai hoc ki thuat y te hai duong,dai hoc ky thuat y te hai duong,97
+dai hoc ky thuat y te hai duong,dai hoc ky thuat y te hai duong,100
+dai hoc ky thuat y duoc da nang,dai hoc ky thuat y duoc da nang,100
+hoc vien am nhac quoc gia viet nam,hoc vien am nhac quoc gia viet nam,100
+dai hoc van hoa ha noi,dai hoc van hoa ha noi,100
+dai hoc san khau dien anh ha noi,dai hoc san khau dien anh ha noi,100
+nhac vien hcm,nhac vien hcm,100
+dai hoc san khau dien anh hcm,dai hoc san khau dien anh hcm,100
+dai hoc my thuat hcm,dai hoc my thuat hcm,100
+dai hoc the duc the thao hcm,dai hoc the duc the thao hcm,100
+dai hoc van hoa hcm,dai hoc van hoa hcm,100
+dai hoc the duc the thao bac ninh,dai hoc the duc the thao bac ninh,100
+dai hoc the duc the thao da nang,dai hoc the duc the thao da nang,100
+dai hoc coing nghiep ha noi,dai hoc cong nghiep ha noi,98
+dai hoc cong nghe ha noi,dai hoc cong nghiep ha noi,96
+dai hoc cong nghiep ha noi,dai hoc cong nghiep ha noi,100
+dai hoc cong ngiep ha noi,dai hoc cong nghiep ha noi,98
+dai hoc cong nhiep ha noi,dai hoc cong nghiep ha noi,98
+dai hoc nong nghiep ha noi,dai hoc cong nghiep ha noi,96
+dai hoc cong nghe viet hung,dai hoc cong nghiep viet hung,96
+dai hoc cong nghiep viet hung,dai hoc cong nghiep viet hung,100
+dai hoc conng nghiep viet hung,dai hoc cong nghiep viet hung,98
+dai hoc kimh te ky thuat cong nghiep,dai hoc kinh te ky thuat cong nghiep,97
+dai hoc kinh te ki thuat cong nghiep,dai hoc kinh te ky thuat cong nghiep,97
+dai hoc kinh te ky thuat cong nghiep,dai hoc kinh te ky thuat cong nghiep,100
+dai hoc kinh te ky thuat cong nghiep i,dai hoc kinh te ky thuat cong nghiep,97
+dai hoc dien luc,dai hoc dien luc,100
+d ai hoc cong nghiep hcm,dai hoc cong nghiep hcm,98
+dai hoc cong nghe hcm,dai hoc cong nghiep hcm,95
+dai hoc cong nghiep hcm,dai hoc cong nghiep hcm,100
+dai hoc cong nghiepb hcm,dai hoc cong nghiep hcm,98
+dai hoc cong ngiep hcm,dai hoc cong nghiep hcm,98
+dai hoc cong nghiep quang ninh,dai hoc cong nghiep quang ninh,100
+dai hoc cong nhiep quang ninh,dai hoc cong nghiep quang ninh,98
+dai hoc cong nghe viet tri,dai hoc cong nghiep viet tri,96
+dai hoc cong nghiep viet tri,dai hoc cong nghiep viet tri,100
+dai hoc sao do,dai hoc sao do,100
+dai hoc cong nghe giao thong van tai,dai hoc cong nghe giao thong van tai,100
+dai hoc cong nghe giao thong van taic,dai hoc cong nghe giao thong van tai,99
+dai hoc cong nghe giao thong van tait,dai hoc cong nghe giao thong van tai,99
+dai hoc giao thong van tai hcm,dai hoc giao thong van tai hcm,100
+hoc vien hang khong viet nam,hoc vien hang khong viet nam,100
+dai hoc hang hai viet nam,dai hoc hang hai viet nam,100
+dai hoc kien truc ha noi,dai hoc kien truc ha noi,100
+dai hoc kien truc hcm,dai hoc kien truc hcm,100
+dai hoc xay dung mien trung,dai hoc xay dung mien trung,100
+dai hoc xay dung mien tay,dai hoc xay dung mien tay,100
+dai hoc lao dong xa hoi,dai hoc lao dong xa hoi,100
+dai hoc lao donh xa hoi,dai hoc lao dong xa hoi,96
+dai hoc su pham ki thuat nam dinh,dai hoc su pham ky thuat nam dinh,97
+dai hoc su pham ky thuat nam dinh,dai hoc su pham ky thuat nam dinh,100
+dai hoc su pham ky thuat vinh,dai hoc su pham ky thuat vinh,100
+hoc vien noing nghiep viet nam,hoc vien nong nghiep viet nam,98
+hoc vien nong nghiep viet nam,hoc vien nong nghiep viet nam,100
+dai hoc lam nghiep,dai hoc lam nghiep,100
+dai hoc thuy loi,dai hoc thuy loi,100
+dai hoc nong lam bac giang,dai hoc nong lam bac giang,100
+hoc vien tai chinh,hoc vien tai chinh,100
+dai hoc tai chinh maketing,dai hoc tai chinh marketing,98
+dai hoc tai chinh maketting,dai hoc tai chinh marketing,96
+dai hoc tai chinh marketing,dai hoc tai chinh marketing,100
+dai hoc tai chinh marketting,dai hoc tai chinh marketing,98
+dai hoc tai chinh marleting,dai hoc tai chinh marketing,96
+dai hoc tai chinh ke toan,dai hoc tai chinh ke toan,100
+dai hoc tai chinh quan tri kinh doanh,dai hoc tai chinh quan tri kinh doanh,100
+hoc vien bao chi tuyen truyen,hoc vien bao chi tuyen truyen,100
+dai hoc tai nguyen moi truong ha noi,dai hoc tai nguyen moi truong ha noi,100
+dai hoc tai nguyen moi truong hcm,dai hoc tai nguyen moi truong hcm,100
+hoc vien chinh sach phat trien,hoc vien chinh sach phat trien,100
+hoc vien ngoai giao,hoc vien ngoai giao,100
+hoc vien cong nghe buu chinh vien thong,hoc vien cong nghe buu chinh vien thong,100
+hoc vien cong nghe buu chinh vien thong hcm,hoc vien cong nghe buu chinh vien thong,95
+dai hoc luat ha noi,dai hoc luat ha noi,100
+hoc vien ngan hang,hoc vien ngan hang,100
+dai hoc ngan hang hcm,dai hoc ngan hang hcm,100
+dai hoc cong nghiep det may ha noi,dai hoc cong nghiep det may ha noi,100
+dai hoc cong doan,dai hoc cong doan,100
+dai hoc ton duc thang,dai hoc ton duc thang,100
+dai hoc ton duc thanh,dai hoc ton duc thang,95
+hoc vien thanh thieu nien viet nam,hoc vien thanh thieu nien viet nam,100
+hoc vien phu nu viet nam,hoc vien phu nu viet nam,100
+dai hoc khoa hoc cong nghe ha noi,dai hoc khoa hoc cong nghe ha noi,100
+dai hoc thu do ha noi,dai hoc thu do ha noi,100
+hoc vien can bo hcm,hoc vien can bo hcm,100
+dai hoc sai gon,dai hoc sai gon,100
+dai hoc y khoa pham ngoc thach,dai hoc y khoa pham ngoc thach,100
+dai hoc hai phong,dai hoc hai phong,100
+dai hoc ky thuat cong nghe can tho,dai hoc ky thuat cong nghe can tho,100
+dai hoc bac lieu,dai hoc bac lieu,100
+dai hoc thu dau mot,dai hoc thu dau mot,100
+dai hoc dong nai,dai hoc dong nai,100
+dai hoc ha tinh,dai hoc ha tinh,100
+dai hoc hai duong,dai hoc hai duong,100
+dai hoc khanh hoa,dai hoc khanh hoa,100
+dai hoc kinh te nghe an,dai hoc kinh te nghe an,100
+dai hoc y khoa vinh,dai hoc y khoa vinh,100
+dai hoc hung vuong,dai hoc hung vuong,100
+dai hoc phu yen,dai hoc phu yen,100
+dai hoc quang nam,dai hoc quang nam,100
+dai hoc pham van dong,dai hoc pham van dong,100
+dai hoc ha long,dai hoc ha long,100
+dai hoc thai binh,dai hoc thai binh,100
+dai hoc hong duc,dai hoc hong duc,100
+dai hoc van hoa the thao du lich thanh hoa,dai hoc van hoa the thao du lich thanh hoa,100
+dai hoc tien giang,dai hoc tien giang,100
+dai hoc tra vinh,dai hoc tra vinh,100
+dai hoc tan tao,dai hoc tan trao,97
+dai hoc dai nam,dai hoc dai nam,100
+dai hoc dong do,dai hoc dong do,100
+dai hoc fpt,dai hoc fpt,100
+dai hoc hoa binh,dai hoc hoa binh,100
+dai hoc kinh doanh cong nghe ha noi,dai hoc kinh doanh cong nghe ha noi,100
+dai hoc nguyen trai,dai hoc nguyen trai,100
+dai hoc tai chinh ngan hang ha noi,dai hoc tai chinh ngan hang ha noi,100
+dai hoc thanh do,dai hoc thanh do,100
+dai hoc thang long,dai hoc thang long,100
+dai hoc cong nghe sai gon,dai hoc cong nghe sai gon,100
+dai hoc gia dinh,dai hoc gia dinh,100
+dai hoc hoa sen,dai hoc hoa sen,100
+dai hoc hung vuong hcm,dai hoc hung vuong hcm,100
+dai hoc kinh te tai chinh hcm,dai hoc kinh te tai chinh hcm,100
+dai hoc ngoai ngu tin hoc hcm,dai hoc ngoai ngu tin hoc hcm,100
+dai hoc nguyen tat thanh,dai hoc nguyen tat thanh,100
+dai hoc quoc te hong bang,dai hoc quoc te hong bang,100
+dai hoc quoc te sai gon,dai hoc quoc te sai gon,100
+dai hoc van hien,dai hoc van hien,100
+dai hoc van lang,dai hoc van lang,100
+dai hoc ba ria vung tau,dai hoc ba ria vung tau,100
+dai hoc cong nghe dong a,dai hoc cong nghe dong a,100
+dai hoc cong nghe dong nai,dai hoc cong nghe dong a,96
+dai hoc kinh bac,dai hoc kinh bac,100
+dai hoc quoc te bac ha,dai hoc quoc te bac ha,100
+dai hoc binh duong,dai hoc binh duong,100
+dai hoc kinh te ki thuat binh duong,dai hoc kinh te ky thuat binh duong,97
+dai hoc kinh te ky thuat binh duong,dai hoc kinh te ky thuat binh duong,100
+dai hoc quoc te mien dong,dai hoc quoc te mien dong,100
+dai hoc quang trung,dai hoc quang trung,100
+dai hoc phan thiet,dai hoc phan thiet,100
+dai hoc nam can tho,dai hoc nam can tho,100
+dai hoc tay do,dai hoc tay do,100
+dai hoc duy tan,dai hoc duy tan,100
+dai hoc dong a,dai hoc dong a,100
+dai hoc kien truc da nang,dai hoc kien truc da nang,100
+dai hoc cong nghe mien dong,dai hoc cong nghe mien dong,100
+dai hoc lac hong,dai hoc lac hong,100
+dai hoc thanh dong,dai hoc thanh dong,100
+dai hoc vo truong toan,dai hoc vo truong toan,100
+dai hoc chu van an,dai hoc chu van an,100
+dai hoc yersin da lat,dai hoc yersin da lat,100
+dai hoc kinh te cong nghiep long an,dai hoc kinh te cong nghiep long an,100
+dai hoc luong the vinh,dai hoc luong the vinh,100
+dai hoc cuu long,dai hoc cuu long,100
+dai hoc trung vuong,dai hoc trung vuong,100
+hoc vien hau can,hoc vien hau can,100
+hoc vien khoa hoc quan su,hoc vien khoa hoc quan su,100
+hoc vien ki thuat mat ma,hoc vien ky thuat mat ma,96
+hoc vien ky thuat mat ma,hoc vien ky thuat mat ma,100
+hoc vien ki thuat quan su,hoc vien ky thuat quan su,96
+hoc vien ky thuat quan su,hoc vien ky thuat quan su,100
+hoc vien quan y,hoc vien quan y,100
+dai hoc van hoa nghe thuat quan doi,dai hoc van hoa nghe thuat quan doi,100
+cao dang cong nghiep quoc phong,cao dang cong nghiep quoc phong,100
+cao dang quan y 1,cao dang quan y 1,100
+hoc vien hai quan,hoc vien hai quan,100
+hoc vien an ninh nhan dan,hoc vien an ninh nhan dan,100
+hoc vien canh sat nhan dan,hoc vien canh sat nhan dan,100
+dai hoc canh sat nhan dan,dai hoc canh sat nhan dan,100
+cao dang su pham bac ninh,cao dang su pham bac ninh,100
+cao dang su pham dak lak,cao dang su pham dak lak,100
+cao dang su pham kien giang,cao dang su pham kien giang,100
+cao dang su pham kieng giang,cao dang su pham kien giang,98
+cao dang su pham lang son,cao dang su pham lang son,100
+cao dang su pham long an,cao dang su pham long an,100
+cao dang su pham nam dinh,cao dang su pham nam dinh,100
+cao dang su pham tay ninh,cao dang su pham tay ninh,100
+cao dang su pham thai binh,cao dang su pham thai binh,100
+cao dang su pham thua thien hue,cao dang su pham thua thien hue,100
+cao dang su pham trung uong,cao dang su pham trung uong,100
+cao dang su pham trung uong nha trang,cao dang su pham trung uong nha trang,100
+cao dang su pham trung uong hcm,cao dang su pham trung uong hcm,100
+cao dang ben tre,cao dang ben tre,100
+cao dang binh dinh,cao dang binh dinh,100
+cao dang can tho,cao dang can tho,100
+cao dang cong dong ca mau,cao dang cong dong ca mau,100
+cao dang cong dong ha noi,cao dang cong dong ha noi,100
+cao dang cong dong soc trang,cao dang cong dong soc trang,100
+cao dang son la,cao dang son la,100
+cao dang vinh phuc,cao dang vinh phuc,100
+cao dang dai viet sai gon,cao dang dai viet sai gon,100
+cao dang y te phu tho,cao dang y te phu tho,100
+cao dang y te quang ninh,cao dang y te quang ninh,100
+cao dang y te son la,cao dang y te son la,100
+cao dang y te thai nguyen,cao dang y te thai nguyen,100
+cao dang y te bach mai,cao dang y te bach mai,100
+cao dang y te ha dong,cao dang y te ha dong,100
+cao dang y te ha nam,cao dang y te ha nam,100
+cao dang y te ha noi,cao dang y te ha noi,100
+cao dang y te hai phong,cao dang y te hai phong,100
+cao dang y te hung yen,cao dang y te hung yen,100
+cao dang y te ninh binh,cao dang y te ninh binh,100
+cao dang y te thai binh,cao dang y te thai binh,100
+cao dang y te hue,cao dang y te hue,100
+cao dang y te khanh hoa,cao dang y te thanh hoa,96
+cao dang y te thanh hoa,cao dang y te thanh hoa,100
+cao dang y te binh dinh,cao dang y te binh dinh,100
+cao dang y te binh duong,cao dang y te binh duong,100
+cao dang y te dong nai,cao dang y te dong nai,100
+cao dang y te bac lieu,cao dang y te bac lieu,100
+cao dang y te ca mau,cao dang y te ca mau,100
+cao dang y te can tho,cao dang y te can tho,100
+cao dang y te dong thap,cao dang y te dong thap,100
+cao dang y te kien giang,cao dang y te kien giang,100
+cao dang y te tien giang,cao dang y te kien giang,96
+cao dang co khi luyen kim,cao dang co khi luyen kim,100
+cao dang cong nghe kinh te cong nghiep,cao dang cong nghe kinh te cong nghiep,100
+cao dang cong nghe kinh te cong nhiep,cao dang cong nghe kinh te cong nghiep,99
+cao dang cong nghiep thuc pham,cao dang cong nghiep thuc pham,100
+cao dang cong nghiep xay dung,cao dang cong nghiep xay dung,100
+cao dang cong nghiep viet duc,cao dang cong nghiep viet duc,100
+cao dang kinh te tai chinh thai nguyen,cao dang kinh te tai chinh thai nguyen,100
+cao dang ky thuat cong nghiep,cao dang ky thuat cong nghiep,100
+cao dang cong dong hai phong,cao dang cong dong hai phong,100
+cao dang cong nghe kinh te ha noi,cao dang cong nghe kinh te ha noi,100
+cao dang cong nghe viettronic,cao dang cong nghe viettronics,98
+cao dang cong nghiep hung yen,cao dang cong nghiep hung yen,100
+cao dang cong nghe nam dinh,cao dang cong nghiep nam dinh,96
+cao dang cong nghiep nam dinh,cao dang cong nghiep nam dinh,100
+cao dang dien tu dien lanh ha noi,cao dang dien tu dien lanh ha noi,100
+cao dang du lich ha noi,cao dang du lich ha noi,100
+cao dang duoc trung uong hai duong,cao dang duoc trung uong hai duong,100
+cao dang kinh te ki thuat thuong mai,cao dang kinh te ky thuat thuong mai,97
+cao dang kinh te ky thuat thuong mai,cao dang kinh te ky thuat thuong mai,100
+cao dang kinh te ky thuat trung uong,cao dang kinh te ky thuat trung uong,100
+cao dang kinh te ky thuat vinh phuc,cao dang kinh te ky thuat vinh phuc,100
+cao dang kinh te cong nghep ha noi,cao dang kinh te cong nghiep ha noi,99
+cao dang kinh te cong nghiep ha noi,cao dang kinh te cong nghiep ha noi,100
+cao dang nghe thuat ha noi,cao dang nghe thuat ha noi,100
+cao dang phat thanh truyen hinh,cao dang phat thanh truyen hinh i,97
+cao dang phat thanh truyen hinh 1,cao dang phat thanh truyen hinh i,97
+cao dang phat thanh truyen hinh 2,cao dang phat thanh truyen hinh i,97
+cao dang phat thanh truyen hinh i,cao dang phat thanh truyen hinh i,100
+cao dang thong ke,cao dang thong ke,100
+cao dang thuong mai du lich ha noi,cao dang thuong mai du lich ha noi,100
+cao dang thuy loi bac bo,cao dang thuy loi bac bo,100
+cao dang truyen hinh,cao dang truyen hinh,100
+cao dang xay dung cong trinh do thi,cao dang xay dung cong trinh do thi,100
+cao dang xay dung nam dinh,cao dang xay dung nam dinh,100
+cao dang xay dung so 1,cao dang xay dung so 1,100
+cao dang xay dung so 2,cao dang xay dung so 1,95
+cao dang xay dung so 3,cao dang xay dung so 1,95
+cao dang cong nghe hue,cao dang cong nghiep hue,96
+cao dang cong nghiep hue,cao dang cong nghiep hue,100
+cao dang giao thong van tai trung uong 2,cao dang giao thong van tai trung uong iv,96
+cao dang dien luc mien trung,cao dang dien luc mien trung,100
+cao dang kinh te ke hoach da nang,cao dang kinh te ke hoach da nang,100
+cao dang ky thuat cong nghe quy nhon,cao dang ky thuat cong nghe quy nhon,100
+cao dang luong thuc thuc pham,cao dang luong thuc thuc pham,100
+cao dang thuong mai,cao dang thuong mai,100
+cao dang cong nge thu duc,cao dang cong nghe thu duc,98
+cao dang cong nghe thu duc,cao dang cong nghe thu duc,100
+cao dang cong thuong hcm,cao dang cong thuong hcm,100
+cao dang dien luc hcm,cao dang dien luc hcm,100
+cao dang giao thong van tai hcm,cao dang giao thong van tai hcm,100
+cao dang kinh te cong nghe hcm,cao dang kinh te cong nghe hcm,100
+cao dang kinh te cong nghe l hcm,cao dang kinh te cong nghe hcm,97
+cao dang kinh te doi ngoai,cao dang kinh te doi ngoai,100
+cao dang kinh te ky thuat hcm,cao dang kinh te ky thuat hcm,100
+cao dang kinh te ki thuat vinatex,cao dang kinh te ky thuat vinatex,97
+cao dang kinh te ky thuat vinatex,cao dang kinh te ky thuat vinatex,100
+cao dang kinh te hcm,cao dang kinh te hcm,100
+cao dang ki thuat cao thang,cao dang ky thuat cao thang,96
+cao dang ky thuat cao thang,cao dang ky thuat cao thang,100
+cao dang my thuat trang tri dong nai,cao dang my thuat trang tri dong nai,100
+cao dang van hoa nghe thuat hcm,cao dang van hoa nghe thuat hcm,100
+cao dang cong dong dong thap,cao dang cong dong dong thap,100
+cao dang kinh te ky thuat can tho,cao dang kinh te ky thuat can tho,100
+cao dang nong nghiep nam bo,cao dang nong nghiep nam bo,100
+cao dang asean,cao dang asean,100
+cao dang bach khoa da nang,cao dang bach khoa da nang,100
+cao dang bach khoa hung yen,cao dang bach khoa hung yen,100
+cao dang bach viet,cao dang bach viet,100
+cao dang ban cong cong nghe quan tri doanh nghiep,cao dang ban cong cong nghe quan tri doanh nghiep,100
+cao dang cong nghe bac ha,cao dang cong nghe bac ha,100
+cao dang cong nghe ha noi,cao dang cong nghe ha noi,100
+cao dang cong nghiep ha noi,cao dang cong nghe ha noi,96
+cao dang cong nghe thong tin hcm,cao dang cong nghe thong tin hcm,100
+cao dang cong nghe quan tri sonadezi,cao dang cong nghe quan tri sonadezi,100
+cao dang cong nghe thuong mai ha noi,cao dang cong nghe thuong mai ha noi,100
+cao dang kinh te ky thuat ha noi,cao dang kinh te ky thuat ha noi,100
+cao dang ky thuat cong nghe van xuan,cao dang ky thuat cong nghe van xuan,100
+cao dang ky thuatwj cong nghe van xuan,cao dang ky thuat cong nghe van xuan,97
+cao dang mien nam,cao dang mien nam,100
+cao dang ngoai ngu cong nghe viet nhat,cao dang ngoai ngu cong nghe viet nhat,100
+cao dang van hoa nghe thuat du lich sai gon,cao dang van hoa nghe thuat du lich sai gon,100
+cao dang van hoa nghe thuat du lich sai gon act,cao dang van hoa nghe thuat du lich sai gon,96
+cao dang van hoa nghe thuat du lich sau gon,cao dang van hoa nghe thuat du lich sai gon,98
+cao dang vien dong,cao dang vien dong,100
+cao dang viet my,cao dang viet my,100
+cao dang duoc phu tho,cao dang y duoc phu tho,95
+cao dang dien luc mien bac,cao dang dien luc mien bac,100
+can dang nghe bach khoa,cao dang nghe bach khoa,96
+cao dang nghe bach khoa,cao dang nghe bach khoa,100
+cao dang nghe co dien ha noi,cao dang nghe co dien ha noi,100
+cao dang nghe cong nghe cao ha noi,cao dang nghe cong nghe cao ha noi,100
+cao dang nghe cong nghiep ha noi,cao dang nghe cong nghiep ha noi,100
+cao dang nghe ky thuat cong nghe,cao dang nghe ky thuat cong nghe,100
+cao dang nghe long bien,cao dang nghe long bien,100
+cao dang nghe so 1 bo quoc phong,cao dang nghe so 17 bo quoc phong,98
+cao dang nghe so 2 bo quoc phong,cao dang nghe so 17 bo quoc phong,95
+cao dang nghe so 3 bo quoc phong,cao dang nghe so 17 bo quoc phong,95
+cao dang nghe so 4 bo quoc phong,cao dang nghe so 17 bo quoc phong,95
+cao dang nghe so 5 bo quoc phong,cao dang nghe so 17 bo quoc phong,95
+cao dang nghe so 7 bo quoc phong,cao dang nghe so 17 bo quoc phong,98
+cao dang nghe van lang ha noi,cao dang nghe van lang ha noi,100
+cao dang thuc hanh fpt,cao dang thuc hanh fpt,100
+cao dang giao thong van tai duong thuy 2,cao dang giao thong van tai duong thuy 2,100
+cao dang ky nghe 2,cao dang ky nghe 2,100
+cao dang nghe du lich sai gon,cao dang nghe du lich sai gon,100
+cao dang nghe hang hai hcm,cao dang nghe hang hai hcm,100
+cao dang nghe saigon,cao dang nghe sai gon,98
+cao dang nghe hcm,cao dang nghe hcm,100
+cao dang quoc te hcm,cao dang quoc te hcm,100
+cao dang du lich thuong mai nghe an,cao dang du lich thuong mai nghe an,100
+cao dang nghe bach nghe hai phong,cao dang nghe bach nghe hai phong,100
+cai dang nghe co dien thuy loi,cao dang nghe co dien thuy loi,97
+cao dang nghe du lich dich vu hai phong,cao dang nghe du lich dich vu hai phong,100
+cao dang nghe duyen hai,cao dang nghe duyen hai,100
+cao dang nghe giao thong van tai duong thuy 1,cao dang nghe giao thong van tai duong thuy i,98
+cao dang nghe giao thong van tai trung uong 2 i,cao dang nghe giao thong van tai trung uong 2,98
+cao dang nghe giao thong van tai trung uong 3,cao dang nghe giao thong van tai trung uong 2,98
+cao dang nghe ha nam,cao dang nghe ha nam,100
+cao dang nghe lilama 2,cao dang nghe lilama 1,95
+cao dang nghe lilama1,cao dang nghe lilama 1,98
+cao dang nghe so' 22 bo quoc phong,cao dang nghe so 2 bo quoc phong,97
+cao dang nghe song da,cao dang nghe song da,100
+cao dang nghe thuong mai cong nghiep,cao dang nghe thuong mai cong nghiep,100
+cao dang nghe viet duc ha tinh,cao dang nghe viet duc ha tinh,100
+cao dang dong khoi,cao dang dong khoi,100
+cao dang du lich hue,cao dang du lich hue,100
+cao dang du lich nha trang,cao dang du lich nha trang,100
+cao dang nghe an giang,cao dang nghe an giang,100
+cao dang nghe binh thuan,cao dang nghe binh thuan,100
+cao dang nghe can tho,cao dang nghe can tho,100
+cao dang nghe cong nghe cao dong an,cao dang nghe cong nghe cao dong an,100
+cao dang nghe da lat,cao dang nghe da lat,100
+cao dang nghe da nang,cao dang nghe da nang,100
+cao dang nghe dong thap,cao dang nghe dong thap,100
+cao dang nghe hoa sen,cao dang nghe hoa sen,100
+cao dang nghe kien giang,cao dang nghe kien giang,100
+cao dang nghe nguyen van troi,cao dang nghe nguyen van troi,100
+cao dang nghe quang nam,cao dang nghe quang nam,100
+cao dang nghe soc trang,cao dang nghe soc trang,100
+cao dang nghe tay ninh,cao dang nghe tay ninh,100
+cao dang nghe viet nam singapore,cao dang nghe viet nam singapore,100
+cao dang nghe vinh long,cao dang nghe vinh long,100

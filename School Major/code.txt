@@ -1,0 +1,168 @@
+import pandas as pd
+from unidecode import unidecode
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
+from ast import literal_eval
+
+
+def to_english(s):
+    s = list(s)
+    for i in range (len(s)):
+        s[i] = unidecode(s[i])
+    s1 = ""
+    for i in s:
+        s1+=i
+    return s1
+def normalize(s):
+    s = " ".join(s.split())
+    s = s.lower()
+    if s[:6] == "truong":
+        s = s[6:]
+    s = " ".join(s.split())
+    s = s.replace("-"," ")
+    s = s.replace("."," ")
+    s = s.replace("&"," ")
+    s = s.replace("*", " ")
+    s = s.replace(","," ")
+    s = s.replace("_"," ")
+    s = s.replace(" va "," ")
+    s = s.replace("cdn", "cao dang nghe")
+    s = s.replace("gtvt", "giao thong van tai")
+    s = s.replace("thanh pho", " ")
+    s = s.replace("bqp", " bo quoc phong ")
+    s = s.replace("qg"," quoc gia ")
+    s = s.replace("dh", " dai hoc ")
+    s = s.replace("bk", " bach khoa ")
+    s = s.replace("cd"," cao dang ")
+    s = s.replace(" sp "," su pham ")
+    s = s.replace(" csnd", " canh sat nhan dan")
+    s = s.replace(" cs", " co so ")
+    s = s.replace(" cn ", " cong nghe ")
+    s = s.replace("khxh", " khoa hoc xa hoi ")
+    s = s.replace (" nv ", " nhan van ")
+    s = s.replace("tdtt", "the duc the thao")
+    s = s.replace("ttgdtx", "trung tam giao duc thuong xuyen")
+    s = s.replace("gdtx"," gia duc thuong xuyen ")
+    s = s.replace(" hn"," ha noi")
+    s = s.replace("ho chi minh","hcm")
+    s = s.replace("tp","")
+    s = s.replace("ptth", "pho thong trung hoc")
+    s = s.replace("hcmc","hcm")
+    s = s.replace(" dn"," da nang")
+    s = s.replace(" city", " ")
+    s = s.replace("city ", " ")
+    s = s.replace("cntt"," cong nghe thong tin ")
+    s = s.replace("iii", " 3 ")
+    s = s.replace("ii"," 2 ")
+    s = s.replace("thpt", "trung hoc pho thong")
+    s = s.replace("ptth"," pho thong trung hoc")
+    s = s.replace("thcs", "trung hoc co so")
+    s = re.sub(r'\(.+?\)\s*', '', s)
+    return s
+def turn(s):
+    return literal_eval(s)
+df = pd.read_csv('school_major.csv')
+data = dict()
+data["school"] = []
+data["school_norm"] = []
+data["school_standard"] = []
+data["specialization"] = []
+data["specialization_norm"] = []
+data["specialization_standard"] = []
+for ind in df.index:
+    data["school"].append(df['school_name'][ind])
+    data["school_norm"].append(" ".join(normalize(to_english(str(df['school_name'][ind]))).split()))
+    data["specialization"].append(df['specialization'][ind])
+    data['specialization_norm'].append(" ".join(normalize(to_english(str(df['specialization'][ind]))).split()))
+df = df.dropna().reset_index(drop=True)
+print(len(df.index))
+school_vn = pd.read_csv('new 1.txt', sep = "|")
+school_en = pd.read_csv('new 1 en.txt', sep = "|")
+major_vn = pd.read_csv("major.txt", sep = "|")
+major_en = pd.read_csv("major_en.txt", sep = "|")
+for ind in school_vn.index:
+    school_vn["school"][ind] = " ".join(normalize(to_english(str(school_vn["school"][ind]))).split())
+    school_en["school"][ind] = " ".join(normalize(to_english(str(school_en["school"][ind]))).split())
+for ind in major_vn.index:
+    major_vn["specialization"][ind] = " ".join(normalize(to_english(str(major_vn["specialization"][ind]))).split())
+    major_en["specialization"][ind] = " ".join(normalize(to_english(str(major_en["specialization"][ind]))).split())
+print(school_vn)
+track = 0
+track_p = 0
+track_r = 0
+check_s = []
+check_p = []
+for i in range(len(data["school_norm"])):
+    data["school_standard"].append("CannotFound")
+    data["specialization_standard"].append("CannotFound")
+print("school vn begin")
+for ind_d in range(len(data["school_norm"])):
+    print(ind_d)
+    data["school_norm"][ind_d] = str(data["school_norm"][ind_d])
+    track = 0
+    track_p = 0
+    track_r = 0
+    for ind_s in school_vn.index:
+        if fuzz.token_set_ratio(school_vn["school"][ind_s],data["school_norm"][ind_d]) >= track_p and fuzz.ratio(school_vn["school"][ind_s],data["school_norm"][ind_d]) >= track_r:
+            track = ind_s
+            track_p = fuzz.token_set_ratio(school_vn["school"][ind_s],data["school_norm"][ind_d])
+            track_r = fuzz.ratio(school_vn["school"][ind_s],data["school_norm"][ind_d])
+    if fuzz.token_set_ratio(school_vn["school"][track],data["school_norm"][ind_d]) >= 90 or fuzz.ratio(school_vn["school"][track],data["school_norm"][ind_d]) >= 95:
+        check_s.append(ind_d)
+        data["school_standard"][ind_d] = school_vn["school"][track]
+print("school en begin")
+for ind_d in range(len(data["school_norm"])):
+    print(ind_d)
+    if ind_d in check_s:
+        continue
+    data["school_norm"][ind_d] = str(data["school_norm"][ind_d])
+    track = 0
+    track_p = 0
+    track_r = 0
+    for ind_s in school_vn.index:
+        if fuzz.token_set_ratio(school_en["school"][ind_s],data["school_norm"][ind_d]) >= track_p and fuzz.ratio(school_en["school"][ind_s],data["school_norm"][ind_d]) >= track_r:
+            track = ind_s
+            track_p = fuzz.token_set_ratio(school_en["school"][ind_s],data["school_norm"][ind_d])
+            track_r = fuzz.ratio(school_en["school"][ind_s],data["school_norm"][ind_d])
+    if fuzz.token_set_ratio(school_en["school"][track],data["school_norm"][ind_d]) >= 90 or fuzz.ratio(school_en["school"][track],data["school_norm"][ind_d]) >= 95:
+        check_s.append(ind_d)
+        data["school_standard"][ind_d] = school_vn["school"][track]
+print("remaining_school")
+for ind_d in range(len(data["school_norm"])):
+    print(ind_d)
+    if ind_d in check_s:
+        continue
+    if "trung hoc" in data["school_norm"] or "dai hoc" in data["school_norm"] or "cao dang" in data["school_norm"] or "university" in data["school_norm"]:
+        data["school_standard"] = data["school_norm"]
+print("major vn begin")
+for ind_d in range(len(data["specialization_norm"])):
+    print(ind_d)
+    data["specialization_norm"][ind_d] = str(data["specialization_norm"][ind_d])
+    track = 0
+    track_p = 0
+    track_r = 0
+    for ind_s in major_vn.index:
+        if fuzz.token_set_ratio(major_vn["specialization"][ind_s],data["specialization_norm"][ind_d]) >= track_p and fuzz.ratio(major_vn["specialization"][ind_s],data["specialization_norm"][ind_d]) >= track_r:
+            track = ind_s
+            track_p = fuzz.token_set_ratio(major_vn["specialization"][ind_s],data["specialization_norm"][ind_d])
+            track_r = fuzz.ratio(major_vn["specialization"][ind_s],data["specialization_norm"][ind_d])
+    if fuzz.token_set_ratio(major_vn["specialization"][track],data["specialization_norm"][ind_d]) >= 90 or fuzz.ratio(major_vn["specialization"][track],data["specialization_norm"][ind_d]) >= 95:
+        check_p.append(ind_d)
+        data["specialization_standard"][ind_d] = major_vn["specialization"][track]
+print("major en begin")
+for ind_d in range(len(data["specialization_norm"])):
+    print(ind_d)
+    data["specialization_norm"][ind_d] = str(data["specialization_norm"][ind_d])
+    track = 0
+    track_p = 0
+    track_r = 0
+    for ind_s in major_en.index:
+        if fuzz.token_set_ratio(major_en["specialization"][ind_s],data["specialization_norm"][ind_d]) >= track_p and fuzz.ratio(major_en["specialization"][ind_s],data["specialization_norm"][ind_d]) >= track_r:
+            track = ind_s
+            track_p = fuzz.token_set_ratio(major_en["specialization"][ind_s],data["specialization_norm"][ind_d])
+            track_r = fuzz.ratio(major_en["specialization"][ind_s],data["specialization_norm"][ind_d])
+    if fuzz.token_set_ratio(major_en["specialization"][track],data["specialization_norm"][ind_d]) >= 90 or fuzz.ratio(major_en["specialization"][track],data["specialization_norm"][ind_d]) >= 95:
+        check_p.append(ind_d)
+        data["specialization_standard"][ind_d] = major_vn["specialization"][track]
+    final = pd.DataFrame(data)
+    final.to_csv("finalized.csv")

@@ -1,0 +1,399 @@
+specialization
+specialized
+Education studies
+Education Management
+Preschool education
+Primary education
+Special Education
+Civic education
+Political Education
+Physical education
+Sports training
+Defense and security education
+Mathematics Pedagogy
+Informatics Pedagogy
+Physics Pedagogy
+Chemistry Pedagogy
+Biology Pedagogy
+Industrial Engineering Pedagogy
+Agricultural Engineering Pedagogy
+Literature Pedagogy
+History Pedagogy
+Geography Pedagogy
+Music Pedagogy
+Art educator
+Bana language pedagogy
+Ede Language Pedagogy
+Jrai Language Pedagogy
+Khmer Pedagogy
+Hmong language pedagogy
+Cham Language Pedagogy
+M'nong language pedagogy
+Pedagogy of Xe Dang language
+English Pedagogy
+Russian Pedagogy
+French Pedagogy
+Chinese Pedagogy
+German Pedagogy
+Japanese Pedagogy
+Korean Pedagogy
+Art pedagogy
+Technology pedagogy
+Natural science pedagogy
+Legal education
+Pedagogy of History - Geography
+Educational technology
+Theory, history and criticism of art
+Painting
+Graphics
+Sculpture
+Ceramics
+Urban art
+Musicologist
+Music composition
+Conducting music
+Vocal music
+Performing western musical instruments
+Piano
+Jazz
+Performing traditional musical instruments
+Theater theory, history and criticism
+Theater scriptwriter
+Theater actor
+Stage director
+Theory, history and criticism of cinema and television
+Film and television screenwriter
+Theater, film and television actor
+Film and television director
+Film
+Theory, history and criticism of dance
+Dancer
+Choreographer
+Dance training
+Photography
+Film and television technology
+Sound and lighting design
+Industrial design
+Graphic design
+Fashion Designer
+Artistic design for theater and cinema
+Digital art
+Vietnamese language and Vietnamese culture
+Chinesse
+Jrai language
+Khmer language
+Hmong language
+Cham language
+Literary creation
+Culture of Vietnamese ethnic minorities
+English language
+Russian
+French language
+Chinese
+German language
+Spanish language
+Portuguese
+Italian language
+Japanese
+Korean
+Arabic language
+Philosophy
+Religious studies
+History
+Study of language
+Literature
+Cultural studies
+Cultural management
+Family study
+Economy
+Political Economy
+Economic Investment
+Economic development
+International economy
+Economic statistics
+Economical maths
+Economic management
+Politics
+Building the Party and state government
+State management
+International relationship
+Sociology
+Anthropological
+Gender and development
+Psychology
+Educational psychology
+Geography
+International Studies
+Asian Studies
+Pacific Studies
+Orientalism
+Chinese studies
+Japan study
+Korean studies
+Southeast Asian Studies
+Vietnamese studies
+American studies
+Newspapers
+Multimedia communications
+Mass communication
+Communication technology
+International communication
+Public Relations
+Corporate communications
+Advertisement
+Information – library
+Information manage
+Archival studies
+Museum studies
+Publish
+Publishing business
+Business administration
+Digital marketing
+Marketing
+Real estate
+International bussiness
+Commercial business
+Ecommerce
+Fashion and textile business
+Finance – Banking
+Insurance
+Financial technology
+Accountant
+Audit
+Management Science
+Management
+Managing human resource
+Management information systems
+Administrator
+Labor relations
+Project management
+The law
+Constitutional law and administrative law
+Civil law and civil procedure
+Criminal law and criminal procedure
+Economic law
+International law
+Biology
+Biotechnology
+Biological engineering
+Applied Biology
+Medical biotechnology
+astronomy
+Physics
+Atomic and nuclear physics
+Mechanics
+Chemistry
+Materials science
+Geology
+Cartography
+Natural geography
+Meteorology and climatology
+Hydrology
+Oceanography
+Climate Change and Sustainable Development
+Environmental science
+Math
+Computational science
+Data science
+Applied Mathematics
+Mechanical math
+Mathematics information
+Statistical
+Computer science
+Computer networks and data communications
+Software technology
+Information system
+Computer engineering
+Artificial intelligence
+Computer engineering technology
+Data Science and Artificial Intelligence
+Information technology
+Safety information
+Multimedia technology
+Computer Science and Engineering
+Geoinformatics
+Architectural engineering technology
+Construction engineering technology
+Construction engineering technology
+Traffic engineering technology
+Construction materials engineering technology
+Mechanical engineering technology
+Manufacturing technology
+Mechatronics engineering technology
+Automotive engineering technology
+Thermal engineering technology
+Ship engineering technology
+Recycled energy
+Robots and artificial intelligence
+Industrial maintenance
+Electrical and electronic engineering technology
+Electronics and telecommunications engineering technology
+Control and automation engineering technology
+IOT and artificial intelligence
+Chemical engineering technology
+Material technology
+Environmental technology
+Nuclear engineering technology
+Industrial Management
+Energy management
+Industrial economy
+Logistics and Supply Chain Management
+Corporate environmental management
+Petroleum technology and oil exploitation
+Printing technology
+Renewable energy engineering technology
+Mechanical engineering
+Mechanical engineer
+Mechatronics engineering
+Heat engineering
+Dynamic mechanical engineering
+Industrial engineering
+Industrial systems engineering
+Aviation technique
+Space engineering
+Ship engineering
+Automotive engineering
+Printing technique
+Marine engineering
+Electrical engineering
+Radar and navigation techniques
+Hydroacoustic engineering
+Marine engineering
+Electronics and telecommunications engineering
+Biomedical engineering
+Control and automation engineering
+Chemical engineering
+Materials engineering
+Metal materials engineering
+Textile techniques
+Enviromental engineer
+Technical physics
+Nuclear engineering
+Geological engineering
+Geophysical engineering
+Geodetic and mapping techniques
+Mining engineering
+Exploration and survey techniques
+Marine engineering
+Petroleum engineering
+Mineral selection techniques
+Food Technology
+Food engineering
+Postharvest technology
+Seafood processing technology
+Ensuring food quality and safety
+Fiber and textile technology
+Technology of textile and garment materials
+Textile and sewing technology
+Footwear technology
+Forest product processing technology
+Architecture
+Landscape architecture
+Interior architecture
+Urban architecture
+Regional and urban planning
+Urban and construction management
+Interior design
+Preserving architectural and urban heritage
+Urbanism
+Construction engineering
+Water construction engineering
+Marine construction engineering
+Traffic construction engineering
+Infrastructure engineering
+Construction geotechnics
+Water resources engineering
+Water supply and drainage engineering
+Economic construction
+Construction management
+Green design
+Agriculture
+Encourage agriculture
+Soil Science
+Breed
+Agriculture
+Crop Science
+Plant protection
+Fruit and vegetable technology and landscape
+Agricultural business
+Agricultural economy
+Rural development
+Forestry
+Urban forestry
+Lam Sinh
+Forest resource management
+Aquaculture
+Aquatic pathology
+Aquatic science
+Fisheries
+Fisheries management
+Veterinary medicine
+Medical
+Preventive medicine
+Traditional medicine
+Pharmacy
+Pharmaceutical chemistry
+Nursing
+Midwives
+Nutrition
+Dentomaxillofacial
+Dental restoration techniques
+Medical testing techniques
+Medical imaging techniques
+Rehabilitation techniques
+Public health
+Healthcare organization and management
+Hospital Management
+Biomedicine in sports and exercise
+Community service
+Youth work
+Support education for people with disabilities
+Tourism
+Management of tourism and travel services
+Tourism and hotel management
+Hotel management
+Restaurant and food service management
+Sports management
+Sports training
+Home economics
+Transport exploitation
+Flight operations management
+Transport Economics
+Marine science
+Resource and environment management
+Natural resource economics
+Land Management
+Labor protection
+Security reconnaissance
+Police reconnaissance
+Technical reconnaissance
+Criminal investigation
+People's Public Security Engineering
+Criminal engineering
+State management of security and order
+Traffic order and safety management
+Criminal judgment enforcement and judicial support
+Advise and command the People's Police
+Fire prevention and rescue
+People's police logistics
+Security intelligence
+Commander of the Army Staff
+Commander of the Naval Staff
+Air Force Staff Commander
+Air Defense Staff Commander
+Artillery Staff Commander
+Commander of the Tank and Armor staff
+Commander of the Special Operations Staff
+Border
+Military intelligence
+Military logistics
+Information advisory commander
+Basic military
+Technical command and management
+Technical Commander of the Air Defense
+Technical commander of tanks and armored vehicles
+Technical Commander of the Army Corps of Engineers
+Chemical Technical Commander
+Technical reconnaissance
+Naval Technical Commander
+Command electronic warfare techniques

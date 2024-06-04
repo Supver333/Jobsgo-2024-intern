@@ -1,0 +1,704 @@
+school
+Ha Noi national university
+University of Technology, Vietnam National University, Hanoi
+Hanoi National University of Higher Education
+University of Economics, Hanoi National University
+Hanoi University of Natural Sciences, Vietnam National University
+University of Social Sciences and Humanities, Vietnam National University, Hanoi
+University of Foreign Languages, Vietnam National University, Hanoi
+University of Medicine and Pharmacy, Hanoi National University
+Vietnam Japan University, Vietnam National University, Hanoi
+Hanoi National University Law University
+School of Management and Business, Hanoi National University
+Hanoi National University International School
+School of Interdisciplinary Sciences and Arts, Hanoi National University
+Ho Chi Minh National University
+An Giang University
+Ho Chi Minh National University of Technology
+University of Information Technology, Ho Chi Minh National University
+University of Natural Sciences Ho Chi Minh National University
+University of Social Sciences and Humanities, Vietnam National University, Hanoi
+University of Economics and Law, Ho Chi Minh National University
+Ho Chi Minh National University International University
+Thai Nguyen university
+Thai Nguyen University of Information and Communications Technology
+Thai Nguyen University of Sciences
+Thai Nguyen University of Economics and Business Administration
+Thai Nguyen University of Industrial Technology
+Thai Nguyen University of Agriculture and Forestry
+Thai Nguyen University of Education
+Thai Nguyen University of Medicine and Pharmacy
+Thai Nguyen Foreign Language School
+Thai Nguyen College of Economics and Technology
+Hue university
+Hue science university
+Hue economical University
+Hue University of Law
+Hue University of Arts
+Hue University of Foreign Languages
+Hue University of Agriculture and Forestry
+Hue University of Education
+Hue University of Medicine and Pharmacy
+Hue Tourism School
+Da Nang University
+Da Nang Polytechnic University
+Danang University of Economics
+Da Nang University of Education
+Da Nang University of Foreign Languages
+Da Nang University of Technical Education
+Vietnam - Korea University of Information and Communications Technology
+Hanoi Polytechnic University
+Ho Chi Minh City University of Economics
+Education Management Academy
+Hanoi University
+University of Transport
+National Economics University
+Mine geological college
+Hanoi Open University
+University of Industrial Fine Arts
+Foreign Trade University
+Hanoi University of Education
+Hanoi University of Education 2
+Central University of Art Education
+Hanoi University of Physical Education and Sports
+University of Commerce
+Hanoi University of Construction
+Ho Chi Minh City University of Law
+Ho Chi Minh City Open University
+Ho Chi Minh City University of Agriculture and Forestry
+Ho Chi Minh City University of Technical Education
+Ho Chi Minh City University of Education
+Ho Chi Minh City University of Physical Education and Sports
+Vinh University
+Can Tho University
+Dalat University
+Dong Thap University
+Kien Giang University
+Nha Trang University
+Quy Nhon University
+Hung Yen University of Technical Education
+Northwestern University
+Tay Nguyen University
+Vietnamese German University
+Hanoi Medical University
+Hanoi Pharmaceutical University
+University of Public Health
+Vietnam Academy of Traditional Medicine and Pharmacy
+Ho Chi Minh City University of Medicine and Pharmacy
+Hai Phong University of Medicine and Pharmacy
+Thai Binh University of Medicine and Pharmacy
+Can Tho University of Medicine and Pharmacy
+Nam Dinh University of Nursing
+Hai Duong University of Medical Technology
+Da Nang University of Medical Technology and Pharmacy
+Vietnam National Academy of Music
+Vietnam Dance Academy
+Hanoi University of Culture
+Vietnam University of Fine Arts
+Hanoi University of Theater and Cinema
+Ho Chi Minh City Conservatory of Music
+Ho Chi Minh City University of Theater and Cinema
+Ho Chi Minh City University of Fine Arts
+Ho Chi Minh City University of Physical Education and Sports
+Ho Chi Minh City University of Culture
+Hue Academy of Music
+Bac Ninh University of Physical Education and Sports
+Da Nang University of Physical Education and Sports
+Hanoi University of Industry
+Vietnam–Hungary University of Industry
+University of Economics and Industrial Technology
+Electricity University
+Ho Chi Minh City University of Industry
+Ho Chi Minh City University of Industry and Trade
+Quang Ninh University of Industry
+Viet Tri University of Industry
+University of red Star
+University of Transport Technology
+Ho Chi Minh City University of Transport
+Vietnam Aviation Academy
+Vietnam Maritime University
+Hanoi University of Architecture
+Ho Chi Minh City University of Architecture
+Central University of Construction
+Western University of Construction
+University of Labor and Social Affairs
+Nam Dinh University of Technical Education
+Vinh University of Technical Education
+Vinh Long University of Technical Education
+Vietnam Academy of Agriculture
+Forestry University
+Irrigation university
+Bac Giang University of Agriculture and Forestry
+Acandemy of Finance
+University of Finance and Marketing
+University of Finance and Accounting
+University of Finance – Business Administration
+Vietnam Buddhist Academy in Hanoi
+Vietnam Buddhist Academy in Ho Chi Minh City
+Vietnam Buddhist Academy in Hue
+Khmer Theravada Buddhist Academy
+Ho Chi Minh National Academy of Politics
+Academy of Journalism and Communication
+Hanoi University of Natural Resources and Environment
+Ho Chi Minh City University of Natural Resources and Environment
+Academy of Policy and Development
+Academy of Science, Technology and Innovation
+Diplomatic Academy
+National Academy of Public Administration (Vietnam)
+Posts and Telecommunications Institute of Technology
+Hanoi Law University
+Vietnam Catholic Academy
+Hanoi School of Biblical Theology
+Institute of Biblical Theology
+Banking Academy
+Ho Chi Minh City Banking University
+Vietnam Petroleum University
+Hanoi University of Textile and Garment Industry
+Court Academy
+University Union
+Ton Duc Thang University
+Vietnam Youth Academy
+Vietnamese Women's Academy
+Ethnic Academy
+Academy of Science and Technology
+Hanoi University of Science and Technology
+Academy of Social Sciences
+Hanoi Procuracy University
+Hanoi Capital University
+Ho Chi Minh City Personnel Academy
+Saigon University
+Pham Ngoc Thach University of Medicine
+Hai Phong University
+Can Tho University of Engineering and Technology
+Bac Lieu University
+Thu Dau Mot University
+Dong Nai University
+Ha Tinh University
+Hai Duong University
+Khanh Hoa University
+Nghe An University of Economics
+Vinh University of Medicine
+Hoa Lu University
+Hung Vuong University
+Phu Yen University
+Quang Binh University
+Quang Nam University
+Pham Van Dong University
+Ha Long University
+Thai Binh University
+Hong Duc University
+Thanh Hoa University of Culture, Sports and Tourism
+Tien Giang University
+Tra Vinh University
+Tan Trao University
+CMC University
+Friendship University of Technology and Management
+Dai Nam University
+Dong Do University
+FPT University
+Hoa Binh University
+Hanoi University of Business and Technology
+Nguyen Trai University
+Phenikaa University
+Hanoi University of Finance and Banking
+Chengdu University
+Thang Long University
+VinUni University
+Saigon University of Technology
+Ho Chi Minh City University of Technology
+Gia Dinh University
+Hoa Sen University
+Hung Vuong University Ho Chi Minh City
+Ho Chi Minh City University of Economics and Finance
+Ho Chi Minh City University of Foreign Languages ​​and Information Technology
+Nguyen Tat Thanh University
+Ho Chi Minh City University of Management and Technology
+Hong Bang International University
+Saigon International University
+Van Hien University
+Van Lang University
+Ba Ria - Vung Tau University
+East Asia University of Technology
+Kinh Bac University
+Bac Ha International University
+Binh Duong University
+Binh Duong University of Economics and Technology
+Eastern International University
+Quang Trung University
+Phan Thiet University
+Southern Can Tho University
+Tay Do University
+Duy Tan University
+East Asia University
+Danang University of Architecture
+Buon Ma Thuot University of Medicine and Pharmacy
+Dong Nai University of Technology
+Eastern University of Technology
+Pink Rose University
+Ha Hoa Tien University
+Thanh Dong University
+Vo Truong Toan University
+Chu Van An University
+Pacific University
+Yersin University Dalat
+Long An University of Industrial Economics
+Tan Tao University
+Luong The Vinh University
+Van Xuan University of Technology
+Vinh University of Industry
+Phan Chau Trinh University
+Thai Nguyen University of Economics and Technology
+Phu Xuan University
+Kowloon University
+Trung Vuong University
+Border Institute
+Vietnam People's Army Academy of Politics
+Logistics Academy
+Military science Academy
+Academy of Cryptographic Engineering
+Military Technical Institute
+Air Force air defense academy
+Military Medical University
+Defense Academy
+Political Officer University
+Tran Quoc Tuan University / Army Officer University 1
+Information and Communications Officer University
+Artillery Officers College
+College of Chemical Defense Officers
+Special Forces Officer University
+Military University of Culture and Arts
+National Defense Industrial College
+College of Automotive Technology and Engineering
+Military Medical College 1
+Tank and Armor Officer University
+Nguyen Hue University / Army Officer University 2
+Army Academy
+Naval Academy
+Air Force officers school
+Ngo Quyen University / Military Engineering Officer University
+Tran Dai Nghia University / Vin - hem - pich Military Technical Officer University
+Military Medical College 2
+Naval Technical College
+People's security Academy
+People's Police Academy
+Academy of Politics - People's Public Security
+International Academy
+University of Fire Prevention and Fighting
+University of Technology - Logistics - People's Public Security
+People's Security University
+People's Police University
+RMIT Vietnam International University
+Fulbright University Vietnam
+American University in Vietnam
+British University - Vietnam
+Tokyo University of Medicine Vietnam
+Ho Chi Minh City University Preparatory School
+Nha Trang Central University Preparatory School for Ethnic Minorities
+Sam Son University Preparatory School for Ethnic Minorities
+Central University Preparatory School for Ethnic Minorities
+Ba Ria - Vung Tau Pedagogical College
+Bac Ninh Pedagogical College
+Cao Bang Pedagogical College
+Dak Lak Pedagogical College
+Dien Bien Pedagogical College
+Gia Lai Pedagogical College
+Hoa Binh Pedagogical College
+Kien Giang Pedagogical College
+Lang Son Pedagogical College
+Long An Pedagogical College
+Nam Dinh Pedagogical College
+Nghe An Pedagogical College
+Quang Tri Pedagogical College
+Tay Ninh Pedagogical College
+Thai Binh Pedagogical College
+Thua Thien Hue Pedagogical College
+Central Pedagogical College
+Nha Trang Central Pedagogical College
+Ho Chi Minh City Central Pedagogical College
+Thai Nguyen College
+Yen Bai College
+Bac Kan College
+Ben Tre College
+Binh Dinh College
+Binh Phuoc College
+Can Tho College
+Ca Mau Community College
+Hanoi Community College
+Hau Giang Community College
+Hung Yen Community College
+Lai Chau Community College
+Soc Trang Community College
+Dalat College
+Ngo Gia Tu College, Bac Giang
+Son La College
+Vinh Long College
+Vinh Phuc College
+Dai Viet Saigon College
+Dien Bien Medical College
+Lang Son Medical College
+Phu Tho Medical College
+Quang Ninh Medical College
+Son La Medical College
+Thai Nguyen Medical College
+Bac Ninh Medical College
+Bach Mai Medical College
+Dak Lak Medical College
+Dang Van Ngu Medical College
+Ha Dong Medical College
+Ha Nam Medical College
+Hanoi Medical College
+Hai Duong Medical College
+Hai Phong Medical College
+Hung Yen Medical College
+Lam Dong Medical College
+Ninh Binh Medical College
+Thai Binh Medical College
+Hop Luc College of Medicine and Pharmacy
+Ha Tinh Medical College
+Quang Tri Medical College
+Hue Medical College
+Quang Binh Medical College
+Thanh Hoa Medical College
+Binh Dinh Medical College
+Dang Thuy Tram Medical College
+Khanh Hoa Medical College
+Phu Yen Medical College
+Quang Nam Medical College
+Binh Duong Medical College
+Dong Nai Medical College
+Bac Lieu Medical College
+Ca Mau Medical College
+Can Tho Medical College
+Dong Thap Medical College
+Kien Giang Medical College
+Tien Giang Medical College
+Tra Vinh Medical College
+College of Mechanical Engineering and Metallurgy
+College of Technology and Industrial Economics
+Thai Nguyen Industrial College
+College of Food Industry
+College of Industry and Construction
+Viet Duc Industrial College
+Thai Nguyen College of Economics and Finance
+Dien Bien College of Economics and Technology
+Phu Tho College of Economics and Technology
+Industrial Technical College
+Northeast Agriculture and Forestry College
+Thai Nguyen College of Commerce and Tourism
+Ha Long College of Culture, Arts and Tourism
+Northwest College of Culture and Arts
+Viet Bac College of Culture and Arts
+Ha Tay Community College
+Hai Phong Community College
+Hanoi College of Technology and Economics
+Viettronics College of Technology
+Hung Yen Industrial College
+Nam Dinh Industrial College
+College of Industry and Commerce
+Hanoi College of Electronics and Refrigeration
+Hanoi Tourism College
+Hai Duong Central College of Pharmacy
+Maritime College I
+College of Economics - Technical Trade
+Central College of Economics and Technology
+Vinh Phuc College of Economics and Technology
+Hanoi College of Industrial Economics
+College of Economics and Food Technology
+College of Economics, Engineering and Fisheries
+Vietnam Dance College
+Hanoi College of Arts
+Northern College of Agriculture and Rural Development
+College of Radio and Television I
+College of Statistics
+College of Information and Communications
+Hanoi College of Commerce and Tourism
+Northern Water Resources College
+Television College
+Thai Binh College of Culture and Arts
+Nam Dinh College of Culture, Arts and Tourism
+Vinh Phuc College
+College of Urban Construction
+Nam Dinh Construction College
+Construction College No. 1
+Hue Industrial College
+Hue Transport College
+Central College of Transport IV
+Central Law College
+College of Economics, Technology, Industry and Trade
+Quang Binh Industrial and Agricultural Technical College
+Thanh Hoa Agricultural College
+Nguyen Du College
+Thanh Hoa College of Physical Education and Sports
+Nghe An College of Culture and Arts
+Binh Thuan College
+Central College of Technology, Economics and Irrigation
+Central College of Industry and Trade
+Central Electricity College
+Central College of Transport V
+Da Nang College of Economics and Planning
+Quy Nhon College of Engineering and Technology
+College of Food and Foodstuffs
+Quang Nam College
+Commercial colleges
+Da Nang College of Culture and Arts
+Dak Nong Community College
+Bao Loc College of Technology and Economics
+Dak Lak College of Culture and Arts
+Kon Tum College
+Binh Phuoc College
+Saigon South Polytechnic College
+Thu Duc College of Technology
+College of Rubber Industry
+Ho Chi Minh City College of Industry and Trade
+Ho Chi Minh City Electricity College
+Ho Chi Minh City College of Transport
+Central College of Transport III
+Central College of Transport VI
+Ho Chi Minh City College of Economics and Technology
+College of Foreign Trade
+Ho Chi Minh City College of Economics and Technology
+Vinatex College of Economics and Technology
+Ho Chi Minh City College of Economics
+Cao Thang Technical College
+Ba Ria - Vung Tau College of Engineering and Technology
+Ly Tu Trong College, Ho Chi Minh City
+Dong Nai College of Decorative Arts
+College of Radio and Television II
+College of Statistics II
+Ho Chi Minh City College of Culture and Arts
+Ho Chi Minh City College of Construction
+Southern College of Mechanical and Electrical Engineering and Agriculture
+Dong Thap Community College
+Kien Giang College
+Bac Lieu College of Economics and Technology
+Can Tho College of Economics and Technology
+Southern Agricultural College
+Can Tho College of Culture and Arts
+Quang Tri Technical College
+ASEAN College
+Au Lac Hue College
+Da Nang Polytechnic College
+Hung Yen Polytechnic College
+Bach Viet College
+Semi-public College of Technology and Business Administration
+Bac Ha College of Technology
+Hanoi College of Technology
+Ho Chi Minh City College of Information Technology
+Sonadezi College of Technology and Management
+Hanoi College of Technology and Trade
+Dai Viet College - Hanoi
+Dai Viet College Da Nang
+Hanoi College of Pharmacy
+Hoan Chau College
+Ho Chi Minh City College of Economics and Technology
+Dong Du College of Economics and Technology - Da Nang
+Hanoi College of Economics and Technology
+Bach Khoa College of Engineering and Technology
+Van Xuan College of Engineering and Technology
+Lac Viet College - Da Nang
+Southern College
+Vietnam Japan College of Foreign Languages ​​and Technology
+Phuong Dong College - Da Nang
+Phuong Dong College - Quang Nam
+Quang Ngai College
+BTEC FPT International College
+Pegasus International College
+Tam Tri College
+Duc Tri Private College - Da Nang
+Saigon College of Culture, Arts and Tourism
+Far Eastern College
+Vietnamese - English College
+Vietnamese American College
+Ho Chi Minh College of Medicine and Pharmacy
+Hop Luc College of Medicine and Pharmacy – Thanh Hoa
+Pasteur College of Medicine and Pharmacy, Hanoi
+Pasteur College of Medicine and Pharmacy, Ho Chi Minh City
+Pasteur Yen Bai College of Medicine and Pharmacy
+Phu Tho College of Medicine and Pharmacy
+Saigon College of Medicine and Pharmacy
+Pham Ngoc Thach Medical College
+Hanoi College of Electrical Engineering and Food Technology
+Northern Electricity College
+Railway College
+Central College of Transport I
+Medical Equipment Technical College
+Security and Technology Vocational College
+Hanoi Polytechnic Vocational College (Hactech)
+Bach Khoa Vocational College
+Hanoi Electromechanical Vocational College
+Hanoi High-Tech Vocational College
+Hanoi Vocational College of Technology and Economics
+Hanoi Industrial Vocational College
+Hung Vuong Vocational College
+Hanoi Vocational College of Business and Technology
+Simco Song Da Vocational College of Engineering - Technology - Economics
+Vocational College of Engineering and Technology
+Vietnam Vocational College of Fine Arts and Technology
+Hanoi Technical and Professional Vocational College
+Long Bien Vocational College
+Nguyen Trai Vocational College
+Hanoi International Vocational College
+Vocational College No. 17 – Ministry of National Defense
+Thang Long Vocational College
+Tran Hung Dao Vocational College
+Van Lang Vocational College, Hanoi
+Vietnam - Korea Vocational College, Hanoi City
+Phu Chau College
+FPT Practice College
+College of Waterway Transport II
+Thu Duc College of Economics and Technology
+College of Engineering II
+Nguyen Truong To Technical College
+iSPACE Information Technology Vocational College
+Saigon Tourism Vocational College
+Ho Chi Minh City Maritime Vocational College
+Ho Chi Minh City Vocational College of Economics and Technology
+Saigon Vocational College
+Vocational College No. 7 – Ministry of National Defense
+Ho Chi Minh City Vocational College
+Ho Chi Minh City International College
+Thu Thiem College – City. Ho Chi Minh
+Thanh Hoa Vocational College of Agriculture and Rural Development
+Phu Tho Mechanical and Electrical College
+Bac Ninh College of Mechanical, Electrical and Construction
+College of Construction Mechanics
+College of Agricultural Mechanics
+Bac Ninh Industrial College
+Nam Dinh College of Textile and Garment Industry
+Thai Nguyen College of Industry and Trade
+Nghe An College of Tourism and Commerce
+Hoa Binh College of Engineering and Technology
+Nam Dinh College of Engineering and Technology
+Son La College of Engineering and Technology
+Ha Giang Province College of Engineering and Technology
+Lao Cai College
+An Nhat Vinh Vocational College
+Bac Giang Vocational College
+Bac Nam Vocational College
+Hai Phong Polytechnic Vocational College
+Northwest Mechanical and Electrical Vocational College
+Vocational College of Electrical Engineering and Irrigation
+Tam Diep Construction Mechanical and Electrical Vocational College
+Ninh Binh Mechanical Vocational College
+Vocational College of Paper Technology and Electromechanics
+Ha Tinh Vocational College of Technology
+LICOGI Thanh Hoa Vocational College of Technology
+Northeast Vocational College of Technology and Agriculture and Forestry
+Phu Tho Vocational College of Technology and Agriculture and Forestry
+Bac Giang Vietnam-Korea Vocational College of Technology
+Vocational College of Technology, Economics and Forest Product Processing
+Vocational College of Technology, Economics and Fisheries
+Hai Phong Industrial Vocational College
+Thanh Hoa Industrial Vocational College
+Viet Bac Industrial Vocational College – Vinacomin
+Vietnam Vocational College of Industry and Trade
+Dai An Vocational College
+Bac Kan Ethnic Boarding Vocational College
+AIRSERCO Aviation Service Vocational College
+Dien Bien Vocational College
+Hai Phong Vocational College of Tourism and Services
+Duyen Hai Vocational College
+Quang Ninh Mechanical and Electrical Transport Vocational College
+Vocational College of Waterway Transport I
+Central Vocational College of Transport II
+Ha Nam Vocational College
+Hai Duong Vocational College
+VICET Vocational College of Economics and Technology
+Northern Economic and Technical Vocational College
+Nghe An Vocational College of Economics and Technology No. 1
+To Hieu Vocational College of Economics and Technology
+LOD Vocational College of Engineering and Technology
+Vietnam - Korea Nghe An Industrial Technical Vocational College
+Thang Long Medical Technical Vocational College
+Tuyen Quang Vocational College of Engineering and Technology
+Lam Kinh Vocational College
+Lang Son Vocational College
+Hai Phong Vocational College of Labor and Social Affairs
+LILAMA Vocational College–1
+Phu Tho Vocational College
+Vocational College of Management and Technology
+Vocational College No. 1 – Ministry of National Defense
+Vocational College No. 13 – Ministry of National Defense
+Vocational College No. 19 – Ministry of National Defense
+Vocational College No. 2 – Ministry of National Defense
+Vocational College No. 20 – Ministry of National Defense
+Vocational College No. 3 – Ministry of National Defense
+Vocational College No. 4 – Ministry of National Defense
+Song Da Vocational College
+Thai Binh Vocational College
+Vocational College of Commerce and Industry
+Vietnamese - Korean Vocational College Quang Ninh
+Viet Soviet Vocational College No. 1
+Ha Tinh Vietnamese-German Vocational College
+Viglacera Vocational College
+Vinh Phuc Vocational College
+Yen Bai Vocational College
+Vietnam Coal and Mineral College
+Viet Duc Nghe An College
+VMU College
+Central College of Mechanics, Construction and Agriculture and Forestry
+LILAMA International College of Technology–2
+Tay Nguyen College of Technology
+Southern College of Technology and Agriculture and Forestry
+Petroleum College
+Dong Khoi College
+Can Tho Tourism College
+Dalat Tourism College
+Da Nang Tourism College
+Hue Tourism College
+Nha Trang Tourism College
+Vung Tau Tourism College
+Hoa Binh Xuan Loc College
+Dung Quat College of Technology
+Ba Ria - Vung Tau College of Engineering and Technology
+Nha Trang College of Engineering and Technology
+Quy Nhon College of Engineering and Technology
+Dak Lak Technical College
+Dong Nai Technical College
+An Giang Vocational College
+Bac Lieu Vocational College
+Binh Phuoc Vocational College
+Binh Thuan Vocational College
+Can Tho Vocational College
+Quang Ngai Mechanical Vocational College
+Vocational College of Mechanics and Irrigation
+Dong An High-Tech Vocational College
+Dong Nai High-Tech Vocational College
+Saigon Vocational College of Technology
+Da Lat Vocational College
+Da Nang Vocational College
+Dong Thap Vocational College
+Hoa Sen Vocational College
+IMPERIAL International Hotel and Tourism Vocational College
+Kien Giang Vocational College
+LADEC Vocational College of Engineering and Technology
+Binh Duong Vocational College of Medical Equipment Engineering
+Long An Vocational College
+Nguyen Tri Phuong Vocational College
+Nguyen Van Troi Vocational College
+Ninh Thuan Vocational College
+Phu Yen Vocational College
+Quang Binh Vocational College
+Quang Nam Vocational College
+Nam Viet International Vocational College
+Vocational College No. 21 – Ministry of National Defense
+Vocational College No. 22 – Ministry of National Defense
+Vocational College No. 23 – Ministry of National Defense
+Vocational College No. 5 – Ministry of National Defense
+Vocational College No. 8 – Ministry of National Defense
+Vocational College No. 9 – Ministry of National Defense
+Soc Trang Vocational College
+Tay Ninh Vocational College
+Western Saigon Vocational College
+Thua Thien Hue Vocational College
+Tien Giang Vocational College
+Tra Vinh Vocational College
+Tran Dai Nghia Vocational College
+Vietnam - Korea Vocational College Ca Mau
+Vietnam - Singapore Vocational College
+Vietnam-Korea Vocational College Quang Ngai
+Vietnam-Australia Vocational College Da Nang
+Vinh Long Vocational College
+Vabis International College
+Thaco College
+Vietnam – Korea College Binh Duong
